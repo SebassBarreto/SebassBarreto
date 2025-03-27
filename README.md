@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Sebasti%C3%A1n+Correa)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Ingeniero+en+proceso)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Ingeniero+en+proceso)](https://git.io/typing-svg)
 <!--
 **SebassBarreto/SebassBarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
