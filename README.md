@@ -39,7 +39,7 @@ public class Sebastian extends Developer {
 
 | Area | Skills |
 |------|--------|
-|  Backend | Java, Python, JDBC, Client-Server |
+|  Backend | Java, JDBC, C++ |
 |  Architecture | MVC, Layered Design, Clean Code |
 |  Foundations | Algorithms, Data Structures, Math |
 |  Environment | Linux, Git, NetBeans, Vsc, IntellIJ |
