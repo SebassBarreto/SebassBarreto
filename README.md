@@ -1,5 +1,3 @@
----
-
 <div align="center">
 
 ```
@@ -26,7 +24,7 @@ public class Sebastian extends Developer {
     };
 
     private final String university = "Universidad Distrital F.J.C. — Systems Engineering";
-    private final String email     = "luscorreab@udistrital.edu.co";
+    private final String email     = "luiscorrbarrseb@gmail.com";
 
     @Override
     public String currentlyLearning() {
@@ -37,27 +35,14 @@ public class Sebastian extends Developer {
 
 ---
 
-## ⚡ What I Build
+## What I Build
 
 | Area | Skills |
 |------|--------|
-| 🔧 Backend | Java, Python, JDBC, Client-Server |
-| 🧵 Concurrency | Threads, Sockets, Synchronization |
-| 🏗️ Architecture | MVC, Layered Design, Clean Code |
-| 🔢 Foundations | Algorithms, Data Structures, Math |
-| 🐧 Environment | Linux, Git, NetBeans |
-
----
-
-## 🏆 Projects I'm Proud Of
-
-**🥋 PeleaDeSumos** — *Concurrent Sumo Simulation*
-Real-time Client-Server wrestling simulation. Java Sockets + Threads + Swing GUI, built with strict MVC.
-> The project that made me fall in love with concurrency.
-
-**🐷 MiniPigs** — *JDBC Utility*
-Database connection manager with `.properties` config, clean initialization and modular architecture.
-> Small project, big lessons about design constraints and standards.
+|  Backend | Java, Python, JDBC, Client-Server |
+|  Architecture | MVC, Layered Design, Clean Code |
+|  Foundations | Algorithms, Data Structures, Math |
+|  Environment | Linux, Git, NetBeans, Vsc, IntellIJ |
 
 ---
 
@@ -74,10 +59,10 @@ Database connection manager with `.properties` config, clean initialization and 
 > I'm always open to collaborating, learning, or just talking tech.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-correa-60a729365/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luscorreab@udistrital.edu.co)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luiscorrbarrseb@gmail.com)
 
 ---
 
 <div align="center">
-<sub>🛠️ Built with curiosity and too much coffee</sub>
+<sub> Built with curiosity </sub>
 </div>
