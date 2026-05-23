@@ -2,12 +2,11 @@
 
 ```
 ╔══════════════════════════════════════════╗
-║   SEBASTIÁN CORREA  //  BACKEND DEV     ║
-║   Building systems that actually work   ║
+║   SEBASTIÁN CORREA  //  BACKEND  DEV     ║
 ╚══════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Java+%2B+Python+%2B+C%2B%2B;Threads%2C+Sockets%2C+Architecture;Systems+Engineering+%40+UD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Java+%2B+C%2B%2B;Hallo%2C+Final;Systems+Engineering+%40+UD)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,9 +17,7 @@ public class Sebastian extends Developer {
 
     private final String[] passions = {
         "Clean Architecture",
-        "Concurrent Systems",
-        "LeetCode at midnight",
-        "Understanding the 'why' behind code"
+        "Understanding the 'why' behind everything"
     };
 
     private final String university = "Universidad Distrital F.J.C. — Systems Engineering";
@@ -28,7 +25,7 @@ public class Sebastian extends Developer {
 
     @Override
     public String currentlyLearning() {
-        return "Java concurrency, socket programming & software design patterns";
+        return "WebIsGoated";
     }
 }
 ```
@@ -39,10 +36,10 @@ public class Sebastian extends Developer {
 
 | Area | Skills |
 |------|--------|
-|  Backend | Java, JDBC, C++ |
-|  Architecture | MVC, Layered Design, Clean Code |
+|  Backend | Java, C++ |
+|  Architecture | MVC, Layered Design, Microservices |
 |  Foundations | Algorithms, Data Structures, Math |
-|  Environment | Linux, Git, NetBeans, Vsc, IntellIJ |
+|  Environment | Linux, Git |
 
 ---
 
