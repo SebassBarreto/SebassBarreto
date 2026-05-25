@@ -31,6 +31,7 @@ public class Sebastian extends Developer {
 ```
 
 ---
+
 ## 🛠️ Stack
 
 **Languages**
@@ -75,6 +76,7 @@ public class Sebastian extends Developer {
     <td><b>MySQL</b></td>
   </tr>
 </table>
+
 ---
 
 ## 📈 My Activity
