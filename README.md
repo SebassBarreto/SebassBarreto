@@ -25,22 +25,56 @@ public class Sebastian extends Developer {
 
     @Override
     public String currentlyLearning() {
-        return "WebIsGoated";
+        return "Web & Python";
     }
 }
 ```
 
 ---
+## 🛠️ Stack
 
-## What I Build
+**Languages**
 
-| Area | Skills |
-|------|--------|
-|  Backend | Java, C++ |
-|  Architecture | MVC, Layered Design, Microservices |
-|  Foundations | Algorithms, Data Structures, Math |
-|  Environment | Linux, Git |
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=java&theme=dark" /></td>
+    <td><b>Java</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></td>
+    <td><b>C++</b></td>
+  </tr>
+</table>
 
+**Technologies**
+
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=spring&theme=dark" /></td>
+    <td><b>Spring</b></td>
+  </tr>
+</table>
+
+**Tools**
+
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=git&theme=dark" /></td>
+    <td><b>Git</b></td>
+    <td><img src="https://skillicons.dev/icons?i=bash&theme=dark" /></td>
+    <td><b>Bash</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></td>
+    <td><b>Linux</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postman&theme=dark" /></td>
+    <td><b>Postman</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></td>
+    <td><b>PostgreSQL</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
+    <td><b>MySQL</b></td>
+  </tr>
+</table>
 ---
 
 ## 📈 My Activity
@@ -55,11 +89,11 @@ public class Sebastian extends Developer {
 
 > I'm always open to collaborating, learning, or just talking tech.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-correa-60a729365/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luiscorrbarrseb@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/luis-correa-60a729365/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:luiscorrbarrseb@gmail.com)
 
 ---
 
 <div align="center">
-<sub> Built with curiosity </sub>
+<sub> <b>Built with curiosity</b> </sub>
 </div>
