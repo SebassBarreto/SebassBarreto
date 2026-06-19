@@ -6,7 +6,7 @@
 ╚══════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Java+%2B+C%2B%2B;Hallo%2C+Final;Systems+Engineering+%40+UD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Java+%2B+C%2B%2B;Hallo%2C+Final;Systems+Engineering)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,12 +20,11 @@ public class Sebastian extends Developer {
         "Understanding the 'why' behind everything"
     };
 
-    private final String university = "Universidad Distrital F.J.C. — Systems Engineering";
     private final String email     = "luiscorrbarrseb@gmail.com";
 
     @Override
     public String currentlyLearning() {
-        return "Web & Python";
+        return "FastAPI";
     }
 }
 ```
@@ -84,6 +83,9 @@ public class Sebastian extends Developer {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebassBarreto&theme=tokyo-night&hide_border=true" />
 </div>
+
+![SebassBarreto's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebassBarreto&show_icons=true&theme=radical&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebassBarreto&layout=donut&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
