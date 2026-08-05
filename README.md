@@ -31,7 +31,7 @@ public class Sebastian extends Developer {
 
 ---
 
-## 🛠️ Stack
+##  Stack
 
 **Languages**
 
@@ -78,7 +78,7 @@ public class Sebastian extends Developer {
 
 ---
 
-## 📈 My Activity
+##  My Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebassBarreto&theme=tokyo-night&hide_border=true" />
@@ -89,7 +89,7 @@ public class Sebastian extends Developer {
 
 ---
 
-## 📬 Let's Talk
+##  Let's Talk
 
 > I'm always open to collaborating, learning, or just talking tech.
 
